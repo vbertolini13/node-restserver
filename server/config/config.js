@@ -1,5 +1,5 @@
 /**
- * 
+ *  Configuraciones para los distintos ambientes
  */
 
 //Puerto
